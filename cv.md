@@ -26,3 +26,12 @@ Candidate for Master of Sports in swimming.
 * Teamwork
 * Responsible
 
+### Education
+Belarusian National Technical University Faculty – Minsk, Belarus<br>
+Faculty of Information Technology and Robotics Specialty: Software engineer
+
+### ADDITIONAL PROFESSIONAL EDUCATION (COURSES, CERTIFICATES)
+* Frondend-developer - "Success" Brest
+* "Academy of Layout" Artyom Islamov - Web-developer
+* JavaScript - Programming, company "IT-School myIT"
+* QA-engineer TestPro (California)
