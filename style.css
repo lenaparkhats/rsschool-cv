@@ -1,0 +1,52 @@
+.container{
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+.clear:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.left{
+    float: left;
+    width: 30%;
+    padding-top: 100px;
+    text-align: right;
+    padding-right: 35px;
+}
+hr{
+    float: left;
+    width: 1px;
+    height: 600px;
+}
+.right{
+    float: left;
+    width: 60%;
+    padding-left: 35px;
+}
+body{
+    background-color: rgba(250, 235, 215, 0.459);
+}
+.work{
+    font-size: 25px;
+    font-style: italic;
+    display: inline-block;
+    margin: 10px 0px 40px 0px;
+    font-weight:700;
+}
+h1 {
+    font-size: 70px;
+}
+.phone, .email{
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    display: inline-block;
+}
+.phone{
+    background-image: url("phone.png");
+    margin-bottom: 15px;
+}
+.email{
+    background-image: url("email.png");
+}
