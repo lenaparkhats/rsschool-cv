@@ -1,3 +1,3 @@
 # Helen Parkhats
 
-https://lenaparkhats.github.io/rsschool-cv/cv
+https://lenaparkhats.github.io/rsschool-cv/
